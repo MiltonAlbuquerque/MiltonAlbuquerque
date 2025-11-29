@@ -58,7 +58,7 @@ Me chamo Milton Albuquerque, Formado em Análise e Desenvolvimento de Sistemas. 
 
 ---
 
-### 📊 Estatísticas (FUNCIONANDO)
+### 📊 Estatísticas
 
 <p>
   <img 
