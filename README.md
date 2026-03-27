@@ -1,85 +1,90 @@
-# 👩🏻‍💻 Milton Albuquerque
+# Hi 👋, I'm Milton Albuquerque
 
-**`Desenvolvedor FullStack`**
+🚀 **Systems Analyst and Developer | JavaScript, .NET & TypeScript Specialist**  
+🇧🇷 Brazil 
 
-Me chamo Milton Albuquerque, Formado em Análise e Desenvolvimento de Sistemas. Construo aplicações web e mobile. Sou Apaixonado por Tecnologia e Programação, construindo projetos e compartilhando conhecimento. 
+I build **scalable products**, **SaaS platforms**, **web and mobile applications**, and **high-performance systems**.
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+
+I also create content and share knowledge on **software development, SaaS, and application development**.
+
+---
+
+## 🌐 Where to find me
 
 <p align="left">
-    <a href="https://www.youtube.com/@miltonrodrigues9741">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@miltonrodrigues9741">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/MiltonAlbuquerque?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MiltonAlbuquerque?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MiltonAlbuquerque?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MiltonAlbuquerque?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/MiltonAlbuquerque">
+    <img src="https://img.shields.io/badge/GitHub-MILTONALBUQUERQUE-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/miltonalbuquerque_">
+    <img src="https://img.shields.io/badge/Instagram-@MILTONALBUQUERQUE_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@miltonalbu?_r=1&_t=ZS-952lRdxff2V">
+    <img src="https://img.shields.io/badge/TikTok-@MILTONALBU_-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.linkedin.com/in/flamilton-albuquerque-461114342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Flamilton Albuquerque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 What I do
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<br/><br/>
+- 🏗️ SaaS & scalable systems
+- ⚡ High-performance applications
+- 🧩 Clean architecture & system design
+- 🔐 Secure APIs & authentication
+- 💳 Payments, subscriptions & business logic
+- 🔗 Integrations & complex workflows
+- 📱 Web & mobile applications
 
 ---
 
-### 📊 Estatísticas
+## 🛠️ Tech Stack
 
-<p>
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiltonAlbuquerque&theme=tokyonight" 
-  />
-</p>
+### Frontend
 
-<p>
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiltonAlbuquerque&theme=tokyonight"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiltonAlbuquerque&theme=tokyonight"
-  />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-<p>
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiltonAlbuquerque&theme=tokyonight"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiltonAlbuquerque&theme=tokyonight"
-  />
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+---
+
+## 📊 GitHub Stats
+
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiltonAlbuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiltonAlbuquerque&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+---
+
+## 🚀 Philosophy
+
+> _"I don’t just write code.  
+> I design systems that are built to scale, evolve, and create value."_
+
+---
+
+⭐ Turning ideas into scalable and reliable products  
+🤝 Open to collaborations and building meaningful solutions
+
