@@ -21,7 +21,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: MiltonAlbuquerque
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?color_snake=#00F7FF&color_dots=#161B22,#0e1a2b,#1f6feb,#58a6ff,#79c0ff
 
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
