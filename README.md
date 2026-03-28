@@ -80,7 +80,7 @@ I also create content and share knowledge on **software development, SaaS, and a
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 ![Snake animation](https://github.com/MiltonAlbuquerque/MiltonAlbuquerque/blob/output/snake.svg)
 
