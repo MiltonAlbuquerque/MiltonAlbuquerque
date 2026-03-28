@@ -78,6 +78,12 @@ I also create content and share knowledge on **software development, SaaS, and a
 </p>
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/MiltonAlbuquerque/MiltonAlbuquerque/blob/output/snake.svg)
+
 ## 🚀 Philosophy
 
 > _"I don’t just write code.  
